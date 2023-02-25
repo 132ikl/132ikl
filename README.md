@@ -1,1 +1,1 @@
-I have moved to my own [repository hosting](https://git.ikl.sh/132ikl). If you would like to create an issue or PR on one of my repositories, please make an account on git.ikl.sh and make the issue or PR there instead of on GitHub.
+I have moved to my own [repository hosting](https://git.ikl.sh/132ikl). If you would like to create an issue or PR on one of my repositories, please make an account on git.ikl.sh or login using GitHub OAuth and make the issue or PR there.
